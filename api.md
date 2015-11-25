@@ -2,4 +2,4 @@
 
 ## 规范文档
 
-- [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)
+- [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)：HTTP 接口设计指北
